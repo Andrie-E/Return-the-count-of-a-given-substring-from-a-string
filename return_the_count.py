@@ -3,5 +3,8 @@
 # Pseudocode
 
 # Provide the given sentence
+sentence = "Emma is good developer. Emma is a writer"
 # Count
+counter = sentence.count("Emma")
 # Print
+print (f"Emma appeared {counter} times")
